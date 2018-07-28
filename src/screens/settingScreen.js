@@ -65,7 +65,7 @@ class settingScreen extends Component {
 					</View>
 					<View style={styles.viewComponent} >
 						<Text style={[styles.textHeaderStyle, {color: this.props.color}]} > contact </Text>
-						<Text style={styles.textStyle} > parthnandaniya@gmail.com </Text>
+						<Text style={styles.textStyle} > twitter.com/Parth_Nandaniya </Text>
 					</View>
 				</View>
 			</View>
