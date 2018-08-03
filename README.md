@@ -4,7 +4,7 @@ check package.json to see which library used in this project
 
 ### to download:
 
-![download "jsk" app here](https://drive.google.com/open?id=1lNuip9ymI5ydgqIczasOkqLoL0i_LO3k)
+![download **jsk** app here](https://drive.google.com/open?id=1lNuip9ymI5ydgqIczasOkqLoL0i_LO3k)
 
 ### to clone this repo:
 
@@ -18,4 +18,4 @@ Happy coading...
 
 ### Main Screen:
 
-![main screen](https://user-images.githubusercontent.com/30195101/43642158-0ce1ac18-9744-11e8-87a0-8611e2a8eb9b.png)
+![main screen](https://user-images.githubusercontent.com/30195101/43642228-61742e18-9744-11e8-8c20-17a4edc1a954.png)
