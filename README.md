@@ -4,7 +4,7 @@ check package.json to see which library used in this project
 
 ### to download:
 
-![download **jsk** app here](https://drive.google.com/open?id=1lNuip9ymI5ydgqIczasOkqLoL0i_LO3k)
+![download jsk app here](https://drive.google.com/open?id=1lNuip9ymI5ydgqIczasOkqLoL0i_LO3k)
 
 ### to clone this repo:
 
