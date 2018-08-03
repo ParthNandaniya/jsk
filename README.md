@@ -1,6 +1,6 @@
 # React Native Gallery App
 
-check package.json to see which library used in this project
+check **package.json** to see which library used in this project
 
 ### to download:
 
