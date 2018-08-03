@@ -53,11 +53,11 @@ class recentScreen extends Component {
 			}
 		} else {
 			Alert.alert(
-			  'do not have permission',
-			  'abe permission to de storage ki',
+			  'Permission',
+			  'please allow storage permission',
 			  [
 			    {text: 'Cancel', onPress: () => console.log('Cancel Pressed'), style: 'cancel'},
-			    {text: 'OK', onPress: () => console.log('OK Pressed')},
+			    {text: 'OK', onPress: this.externalStoragePermission},
 			  ],
 			  { cancelable: false }
 			)

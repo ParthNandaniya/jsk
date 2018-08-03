@@ -65,6 +65,15 @@ class RecentPhotosWithGrid extends Component {
 			<View />
 		);
 	}
+
+	_listEmptyComponent = () => {
+		return (
+			<View>
+				<Text> pull to refresh </Text>
+			</View>
+		);
+	}
+
 	_onRefresh = () => {
 		if(this._isMounted){
 			this.props.recentScreenInitialState();
@@ -133,6 +142,7 @@ class RecentPhotosWithGrid extends Component {
 				        refreshing={this.props.refreshing}
 				        onRefresh={this._onRefresh}
 				        ListFooterComponent={this._listFooterComponent}
+				        ListEmptyComponent={this._listEmptyComponent}
 				        getItemLayout={(data, index) => (
     						{length: PHONE_WIDTH/3.099, offset: (PHONE_WIDTH/3.099) * index, index}
   						)}
